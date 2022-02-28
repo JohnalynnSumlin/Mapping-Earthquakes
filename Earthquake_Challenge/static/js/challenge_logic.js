@@ -266,3 +266,4 @@ tectonicPlates.addTo(map);
 
 
 });
+
