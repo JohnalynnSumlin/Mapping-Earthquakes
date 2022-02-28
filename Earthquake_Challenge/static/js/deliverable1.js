@@ -158,3 +158,4 @@ legend.onAdd = function() {
       tectonicPlates.addTo(map);
     });
 });
+
